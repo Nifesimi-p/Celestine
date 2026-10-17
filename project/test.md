@@ -149,6 +149,7 @@ groupadd testers
 userdel -rf student1
 # delete student1, remove his home folder and mail (-r), force it even if logged in (-f)
 
+we miss ROLAND!
 
 
 
